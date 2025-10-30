@@ -1,3 +1,4 @@
+Important: due to the data's large size, it was uploaded to huggin-face and can be found at: (link to the data). The project includes visualizations of the results, so downloading the dataset is not required unless you want to run the full pipeline or perform additional experiments.
 Step 1 Install requirements
 pip install numpy scikit-learn spacy plotly textstat vaderSentiment
 python -m spacy download en_core_web_lg
