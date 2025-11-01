@@ -4,7 +4,8 @@
 **This project examines stylistic evolution across Nietzsche’s books, using computational linguistics and stylometry.
 The project uses natural language processing (NLP), machine learning, and stylometric analysis to model and visualize how Nietzsche’s writing style changed across his career.
 More**
-📄 [Download Full Project Report (PDF)]([https://github.com/YourUser/Nietche3k/releases/download/v1.0/Project_Report.pdf](https://github.com/OrenVaknin/NPL_Project_Nietzsche/blob/main/NLP_Nietche.pdf))
+[Download Full Project Report (PDF)](https://github.com/OrenVaknin/NPL_Project_Nietzsche/raw/main/NLP_Nietche.pdf)
+
 
 
 -------------------------------------------
