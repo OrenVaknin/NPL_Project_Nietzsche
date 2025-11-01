@@ -2,10 +2,6 @@ venv/
 __pycache__/
 *.pyc
 
-Rawtxt/
-Tokenized_Paras/
-CleanParagraphs/
-TextFeatures/
 *.csv
 *.tsv
 *.json
