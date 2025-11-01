@@ -53,12 +53,14 @@ In tfidf_only.py, set TOKENIZED_DIR if your Tokenized_Paras/ is elsewhere.
 Run: python tfidf_only.py
 
 Step 6 Visualizations  
-In visuals_all_feat.py, set:  
+In `visuals_all_feat.py`, set:  
 FEATURES → your TextFeatures/  
 LABELS → the labels JSON you chose in Step 4  
-Run: python visuals_all_feat.py  
-In visuals_tfidf.py, set TOKENIZED_DIR if needed.  
-Run: python visuals_tfidf.py  
+Run: `python visuals_all_feat.py`  
+
+In `visuals_tfidf.py`, set TOKENIZED_DIR if needed.  
+Run: `python visuals_tfidf.py`
+
 -------------------------------------------
 **Author**  
 Developed by Oren Vaknin   
