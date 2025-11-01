@@ -60,8 +60,8 @@ Run: python visuals_all_feat.py
 In visuals_tfidf.py, set TOKENIZED_DIR if needed.
 Run: python visuals_tfidf.py
 -------------------------------------------
-**Author**
-Developed by Oren Vaknin 
-Ben-Gurion University NLP Course (2024–2025) 
-Supervisor: **Dr. Menahem Adler**
+**Author**  
+Developed by Oren Vaknin   
+Ben-Gurion University NLP Course (2024–2025)   
+Supervisor: **Dr. Menahem Adler**  
 
